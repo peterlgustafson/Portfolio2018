@@ -206,7 +206,7 @@ $(function(){
         $.each(sections, function(i,val) {
 
           var section = $(this),
-              section_top = section.offset().top,
+              section_top = section.offset().top - 10,
               bottom = section_top + section.height();
 
             if (top >= section_top && top <= bottom) {
@@ -511,9 +511,9 @@ $(function(){
     });
 
 
-/*------------------------------------------------------
-Javascript Function for initialize owl carousel
---------------------------------------------------------*/
+  /*------------------------------------------------------
+  Javascript Function for initialize owl carousel
+  --------------------------------------------------------*/
 
     if (!!$.prototype.owlCarousel) {
 
