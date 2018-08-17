@@ -616,7 +616,7 @@ About
 
 /* For Hyperlinks */
 a:link {
-    color: blue; 
+    color:black; 
     background-color: transparent; 
     text-decoration: none;
 }
