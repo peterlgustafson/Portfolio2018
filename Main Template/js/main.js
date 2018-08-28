@@ -1,12 +1,6 @@
 /*=========================================================================
 
-Template Name: IMOZAR - Personal Portfolio Template
-Author: PhyDev
-Author Link: https://themeforest.net/user/phydev;
-Version: 1.0
-Design and Developed by: PhyDev
-
-NOTE: This is the main javascript file for the template
+Main javascript file for the template
 
 =========================================================================*/
 
