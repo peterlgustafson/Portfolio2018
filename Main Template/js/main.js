@@ -111,9 +111,9 @@ $(function(){
     };
 
     // initialize Smooth Scrolling Only in Modern browsers
-    if(animation) {
-    	jQuery.scrollSpeed(100, 700);
-    }
+    // if(animation) {
+    // 	jQuery.scrollSpeed(50, 350);
+    // }
 
 
 /*---------------------------------------------------------------------
